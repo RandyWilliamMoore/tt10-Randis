@@ -2,7 +2,7 @@
 project:
   wokwi_id:     423087020820954113       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Hacker dojo test!11!"      # Project title
-  author:       "John McMaster"      # Your name
+  author:       "John McMaster" "&" "Randis" # Your name
   discord:      "digshadow"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Hacker dojo class"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
